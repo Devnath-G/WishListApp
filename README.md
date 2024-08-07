@@ -7,4 +7,4 @@ WishlistApp is a user-friendly application designed to help you keep track of yo
 - Delete a Wish: Remove wishes that you've fulfilled or no longer want to keep on your list.
 
 # Preview
-![WishlistApp Screenshot](screenshot.png)
+![WishlistApp Screenshot](ScreenShot.png)
