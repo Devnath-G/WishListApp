@@ -5,3 +5,6 @@ WishlistApp is a user-friendly application designed to help you keep track of yo
 - Add a Wish: Users can easily add new wishes to their wishlist. Each wish can include a title, description, and other relevant details.
 - Edit a Wish: If your wishes change over time, you can update them with new information to keep your wishlist current.
 - Delete a Wish: Remove wishes that you've fulfilled or no longer want to keep on your list.
+
+# Preview
+![WishlistApp Screenshot](screenshot.png)
